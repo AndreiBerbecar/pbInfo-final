@@ -1,0 +1,10 @@
+E:\Berbecar Andrei\C#\3\3\bin\Debug\3.exe.config
+E:\Berbecar Andrei\C#\3\3\bin\Debug\3.exe
+E:\Berbecar Andrei\C#\3\3\bin\Debug\3.pdb
+E:\Berbecar Andrei\C#\3\3\obj\Debug\3.csprojAssemblyReference.cache
+E:\Berbecar Andrei\C#\3\3\obj\Debug\_3.Properties.Resources.resources
+E:\Berbecar Andrei\C#\3\3\obj\Debug\3.csproj.GenerateResource.cache
+E:\Berbecar Andrei\C#\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+E:\Berbecar Andrei\C#\3\3\obj\Debug\3.exe
+E:\Berbecar Andrei\C#\3\3\obj\Debug\3.pdb
+E:\Berbecar Andrei\C#\3\3\obj\Debug\_3.Form1.resources
